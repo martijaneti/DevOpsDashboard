@@ -1,0 +1,15 @@
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Infrastructure\bin\Debug\net10.0\DevOpsDashboard.Infrastructure.deps.json
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Infrastructure\bin\Debug\net10.0\DevOpsDashboard.Infrastructure.dll
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Infrastructure\bin\Debug\net10.0\DevOpsDashboard.Infrastructure.pdb
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Infrastructure\bin\Debug\net10.0\DevOpsDashboard.Core.dll
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Infrastructure\bin\Debug\net10.0\DevOpsDashboard.Core.pdb
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Infrastructure\obj\Debug\net10.0\DevOpsDashboard.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Infrastructure\obj\Debug\net10.0\DevOpsDashboard.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Infrastructure\obj\Debug\net10.0\DevOpsDashboard.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Infrastructure\obj\Debug\net10.0\DevOpsDashboard.Infrastructure.AssemblyInfo.cs
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Infrastructure\obj\Debug\net10.0\DevOpsDashboard.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Infrastructure\obj\Debug\net10.0\DevOpsDa.CA21C1ED.Up2Date
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Infrastructure\obj\Debug\net10.0\DevOpsDashboard.Infrastructure.dll
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Infrastructure\obj\Debug\net10.0\refint\DevOpsDashboard.Infrastructure.dll
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Infrastructure\obj\Debug\net10.0\DevOpsDashboard.Infrastructure.pdb
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Infrastructure\obj\Debug\net10.0\ref\DevOpsDashboard.Infrastructure.dll

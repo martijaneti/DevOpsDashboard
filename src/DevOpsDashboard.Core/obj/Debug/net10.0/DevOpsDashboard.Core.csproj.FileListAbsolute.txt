@@ -1,0 +1,11 @@
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Core\bin\Debug\net10.0\DevOpsDashboard.Core.deps.json
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Core\bin\Debug\net10.0\DevOpsDashboard.Core.dll
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Core\bin\Debug\net10.0\DevOpsDashboard.Core.pdb
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Core\obj\Debug\net10.0\DevOpsDashboard.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Core\obj\Debug\net10.0\DevOpsDashboard.Core.AssemblyInfoInputs.cache
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Core\obj\Debug\net10.0\DevOpsDashboard.Core.AssemblyInfo.cs
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Core\obj\Debug\net10.0\DevOpsDashboard.Core.csproj.CoreCompileInputs.cache
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Core\obj\Debug\net10.0\DevOpsDashboard.Core.dll
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Core\obj\Debug\net10.0\refint\DevOpsDashboard.Core.dll
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Core\obj\Debug\net10.0\DevOpsDashboard.Core.pdb
+C:\Users\kunow\Desktop\Programming\DevOpsDashboard\src\DevOpsDashboard.Core\obj\Debug\net10.0\ref\DevOpsDashboard.Core.dll
